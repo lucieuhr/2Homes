@@ -10,4 +10,4 @@ Call or email me if you get stuck. Also try looking on Stack Exchange and W3Scho
 P.S. 
 
 for the image to work, it needs to be saved in the same folder, e.g. Documents, as the html file.
-The 
+
