@@ -5,7 +5,7 @@ Your assignment is to change the logo at the top, change the button styling, and
 
 By Friday I want to decide on a name, logo, and a pleasant gender-neutral color profile. And I want to have the front page of the app and one other page done.
 
-Call or email me if you get stuck. Also try looking on Stack Exchange and W3Schools 
+Call or email me if you get stuck. Also try looking on Stack Exchange and W3Schools.  
 
 P.S. 
 
